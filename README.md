@@ -342,7 +342,7 @@ use Filament\Infolists\Components\SpatieMediaLibraryImageEntry;
 SpatieMediaLibraryImageEntry::make('avatar')
 ```
 
-The media library image entry supports all the customization options of the [original image entry](https://filamentphp.com/docs/infolists/entries/image).
+The media library image entry supports all the customization options of the [original image entry](https://filamentphp.com/docs/4.x/infolists/image-entry).
 
 ### Passing a collection
 
